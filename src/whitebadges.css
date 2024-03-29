@@ -4,11 +4,11 @@
   --badge-margin: 1.5px;
   --badges-everywhere-size:15px;
 }
-.container__5bda1>*{
+.container_ed2af4>*{
   justify-content: flex-end;
   margin: var(--badge-margin);
 }
-.clickable_a50745 > img{
+.clickable__1545b > img{
   height: var(--badge-size) !important;
   width: var(--badge-size) !important;
   padding: var(--badge-size) var(--badge-size) 0px 0px;
@@ -81,7 +81,7 @@ img[src="/assets/c981e58b5ea4b7fedd3a643cf0c60564.svg"] {
 .warningCircleIcon-1YXIHu path{
   fill: white;
 }
-.warningCircleIcon-1YXIHu, .warningCircleIcon__5c6b0{
+.warningCircleIcon-1YXIHu, .warningCircleIcon_cf050f{
   height: var(--badge-size);
   width: var(--badge-size);
 }
