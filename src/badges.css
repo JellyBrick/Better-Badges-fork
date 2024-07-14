@@ -71,7 +71,7 @@
     transform: translate(2px) scale(1.5);
   }
 }
-.container_ed2af4 > * {
+.container_b64375 > * {
   justify-content: flex-end;
   margin: var(--badge-margin);
 }
@@ -239,19 +239,19 @@ div:hover > img[src="/assets/48d5bdcffe9e7848067c2e187f1ef951.svg"] {
   background-image: url("https://media.discordapp.net/attachments/756856464374628352/849207087409528842/staff.png");
 }
 .warningCircleIcon-3R0DL,
-.warningCircleIcon_cf050fw {
+.warningCircleIcon_f89da9w {
   transition-duration: 0.2s;
   height: var(--badge-size);
   width: var(--badge-size);
   transform: scale(1);
 }
 .warningCircleIcon-1YXIHu:hover,
-.warningCircleIcon_cf050f:hover {
+.warningCircleIcon_f89da9:hover {
   transform: scale(1.5);
   animation: dance 0.82s 0.25s normal ease;
 }
 .warningCircleIcon-1YXIHu:hover path,
-.warningCircleIcon_cf050f:hover path {
+.warningCircleIcon_f89da9:hover path {
   d: path(
     "M 10 0 Z M 9 4 H 11 V 11 H 9 V 4 Z M 10 15.25 C 9.31 15.25 8.75 14.691 8.75 14 C 8.75 13.31 9.31 12.75 10 12.75 C 10.69 12.75 11.25 13.31 11.25 14 C 11.25 14.691 10.69 15.25 10 15.25 Z"
   );
@@ -285,7 +285,7 @@ a[href*="https://support.discord.com"]:after
     background: url("https://media.discordapp.net/attachments/756856464374628352/848503229583065088/balancesquadbadge.png");
   }
 }
-.toolbar__62fb5::after {
+.toolbar_fc4f04::after {
   animation: devbadge 5.5s 2 4s normal linear;
   transform: translate(1000px);
   content: "hi";
@@ -464,7 +464,7 @@ a[href*="https://support.discord.com"]:after
     transform: translate(2px) scale(1.5);
   }
 }
-.container_ed2af4 > * {
+.container_b64375 > * {
   justify-content: flex-end;
   margin: var(--badge-margin);
 }
@@ -631,19 +631,19 @@ div:hover > img[src="/assets/f62be1ec9bdd82d3d77158ad81830e68.svg"] {
   background-image: url("https://media.discordapp.net/attachments/756856464374628352/849207087409528842/staff.png");
 }
 .warningCircleIcon-3R0DL,
-.warningCircleIcon_cf050fw {
+.warningCircleIcon_f89da9w {
   transition-duration: 0.2s;
   height: var(--badge-size);
   width: var(--badge-size);
   transform: scale(1);
 }
 .warningCircleIcon-1YXIHu:hover,
-.warningCircleIcon_cf050f:hover {
+.warningCircleIcon_f89da9:hover {
   transform: scale(1.5);
   animation: dance 0.82s 0.25s normal ease;
 }
 .warningCircleIcon-1YXIHu:hover path,
-.warningCircleIcon_cf050f:hover path {
+.warningCircleIcon_f89da9:hover path {
   d: path(
     "M 10 0 Z M 9 4 H 11 V 11 H 9 V 4 Z M 10 15.25 C 9.31 15.25 8.75 14.691 8.75 14 C 8.75 13.31 9.31 12.75 10 12.75 C 10.69 12.75 11.25 13.31 11.25 14 C 11.25 14.691 10.69 15.25 10 15.25 Z"
   );
@@ -677,7 +677,7 @@ a[href*="https://support.discord.com"]:after
     background: url("https://media.discordapp.net/attachments/756856464374628352/848503229583065088/balancesquadbadge.png");
   }
 }
-.toolbar__62fb5::after {
+.toolbar_fc4f04::after {
   animation: devbadge 5.5s 2 4s normal linear;
   transform: translate(1000px);
   content: "hi";
