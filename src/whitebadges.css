@@ -4,7 +4,7 @@
   --badge-margin: 1.5px;
   --badges-everywhere-size:15px;
 }
-.container_ed2af4>*{
+.container_b64375>*{
   justify-content: flex-end;
   margin: var(--badge-margin);
 }
@@ -81,7 +81,7 @@ img[src="/assets/c981e58b5ea4b7fedd3a643cf0c60564.svg"] {
 .warningCircleIcon-1YXIHu path{
   fill: white;
 }
-.warningCircleIcon-1YXIHu, .warningCircleIcon_cf050f{
+.warningCircleIcon-1YXIHu, .warningCircleIcon_f89da9{
   height: var(--badge-size);
   width: var(--badge-size);
 }
